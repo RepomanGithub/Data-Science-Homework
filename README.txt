@@ -23,6 +23,13 @@ Anaconda - https://docs.anaconda.com/anaconda/install/
 Python - https://wiki.python.org/moin/BeginnersGuide/Download
 Jupyternotebook - https://jupyter.readthedocs.io/en/latest/install.html
 
+Data
+
+The data set used is a summary of all listings of lots from 2016,2017,2018,2019 with 
+pre-selected data which are relevant to answering the questions. 
+The original data is included as a ZIP and can be used to create the 
+file added_Master_Boston.csv.
+
 Running
 
 To run the notebook please use:
